@@ -1,0 +1,100 @@
+1.  A more common style for when you want a block of code to execute a fixed number of times (like in for count in range(0, 3):) is: 
+       for _ in xrange(3):. The _ tells the reader that the value is unimportant, and xrange uses less memory since it doesn't create a list.
+
+2. I like to use double quotes around strings that are used for interpolation or that are natural language messages, and single quotes for small symbol-like strings, but will break the rules if the strings contain quotes, or if I forget. I use triple double quotes for docstrings and raw string literals for regular expressions even if they aren't needed.
+	For example:
+
+	LIGHT_MESSAGES = {
+	    'English': "There are %(number_of_lights)s lights.",
+	    'Pirate':  "Arr! Thar be %(number_of_lights)s lights."
+	}
+
+	def lights_message(language, number_of_lights):
+    	"""Return a language-appropriate string reporting the light count."""
+	    return LIGHT_MESSAGES[language] % locals()
+
+	def is_pirate(message):
+	    """Return True if the given message sounds piratical."""
+	    return re.search(r"(?i)(arr|avast|yohoho)!", message) is not None
+
+3.  to exit immediately:
+	raise SystemExit(0)
+		equivalent to import sys; sys.exit(0)
+
+4.  Range of numbers:
+	uses numpy
+	z = np.arange(100.0, 2100.0, 100.0)  # start, stop, step
+		Return evenly spaced values within a given interval.  Values are generated within the half-open interval [100.0, 2100.0)
+		 (in other words, the interval including 100.0 but excluding 2100.0). For integer arguments the function is equivalent 
+		to the Python built-in range function, but returns an ndarray rather than a list.  step = Spacing between values
+		When using a non-integer step, such as 0.1, the results will often not be consistent. 
+		It is better to use numpy.linspace for these cases.
+    	z = np.linspace(100.0, 2100.0, 21)   # start, stop, number
+		Returns 21 evenly spaced samples, calculated over the interval [100.0, 2100.0].
+
+5.  {} are used for dictionaries and sets
+	aset = {'foo', 'bar'}
+	adict = {'foo': 42, 'bar': 81}
+    [] are used for lists
+	alist = ['foo', 'bar', 'bar']
+    () are used for tuples - tuples key on the comma, not the parentheses
+	atuple = ('foo', 'bar')
+	another_tuple = 'spam',
+
+6.  find the first index the value in a list that meets a criterion:
+	[idx for idx in range(len(a)) if a[idx] > 2]
+
+7.  Ask yourself if you really need a loop...or would a more idiomatic solution work. (Think list comprehension, for example)
+
+8. # In-place value swapping
+
+    # Let's say we want to swap
+    # the values of a and b...
+    a = 23
+    b = 42
+
+    # Python also lets us
+    # use this short-hand:
+    a, b = b, a
+
+9.  Any for loop that looks like this:
+
+     new_things = []
+     for ITEM in old_things:
+         if condition_based_on(ITEM):
+             new_things.append("something with " + ITEM)Python
+
+     Can be rewritten into a list comprehension like this:
+
+    new_things = ["something with " + ITEM for ITEM in old_things if condition_based_on(ITEM)]
+
+10.  # • "is" expressions evaluate to True if two 
+     #   variables point to the same object
+
+     # • "==" evaluates to True if the objects 
+     #   referred to by the variables are equal
+
+11.  # How to merge two dictionaries
+     # in Python 3.5+
+
+      >>> x = {'a': 1, 'b': 2}
+      >>> y = {'b': 3, 'c': 4}
+      >>> z = {**x, **y}
+
+      >>> z
+        {'c': 4, 'a': 1, 'b': 3}
+
+12.  For reading files:
+	with open('gnc_modes.txt') as handle:
+    		for line in handle:
+        	# line stuff
+
+13. Use line.rstrip() to lose whitespace at end of line
+
+	import re
+	name = input("Enter file: ")
+	if len(name) < 1 : name = "regex_sum_test.txt"
+	handle = open(name)
+	for line in handle :
+	    line = line.rstrip()
+	    print(line)
