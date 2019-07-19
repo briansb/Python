@@ -1,3 +1,8 @@
 WARNING:root:This is a warning message
 ERROR:root:An error has happened!
 CRITICAL:root:This is critical.  Very bad
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "/home/user/Python/Python_101/logging/combined.py", line 16, in <module>
+    raise RuntimeError
+RuntimeError
