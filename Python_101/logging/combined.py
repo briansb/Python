@@ -1,6 +1,7 @@
 import logging
 
 # add filemode="w" to overwrite
+# will only write messages WARNING and above
 logging.basicConfig(filename="sample.log", filemode="w", level=logging.WARNING)
 
 logging.debug("This is a debug message")
