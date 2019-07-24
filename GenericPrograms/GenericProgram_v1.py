@@ -16,7 +16,6 @@ def function1(arg1):
 
 def function2(arg2):
     print("In function2 with arg2 = " + arg2)
-    # returns a value, so must set function equal to variable in main
     return arg2 + "_revised"
 
 def nested_list_comprehension():
@@ -28,7 +27,26 @@ def nested_list_comprehension():
     #        a.append((x,y))
     # the below replaces the above 3 statements
     a = [(x,y) for x in list1 for y in list2]
-    return a
+    print(a)
+
+def tuples_example():
+    # a few tuple examples
+    my_tuple = (1, 2, 3, 4, 5)
+    my_tuple[0:3]  # tuple slicing
+    another_tuple = tuple()  # creating an empty tuple
+    # turn a list into a tuple via casting
+    abc = tuple([1, 2, 3])
+    print(my_tuple[1:3])
+
+
+#----------------------------------------------
+#  Function calls 
+print("Nested List Comprehension:")
+nested_list_comprehension()
+
+print("Tuples:")
+tuples_example()
+
 
 
 # if run standalone, the system name is "__main__"
@@ -36,19 +54,21 @@ def nested_list_comprehension():
 # if imported, however, the below will not be run, but the above routines
 #   will be available to the importing program
 if __name__ == "__main__":
-    # Concept - calling a function, no arguments
+    print("Functions:")
+    # Calling a function, no return value
     arg1 = 43
     function1(43)
 
-    # Concept - calling a function, arguments
+    # Calling a function, with return value
+    # returns a value, so must set function equal to variable in main
     arg2 = "Test"
     var1 = function2(arg2)
     print("Return from function2 with return value = " + var1)
     # can just put the function in a print statement
     print("Quicker way of getting function2 return value =  " + function2("shorter"))
 
-    # Concept - list comprehension
-    a = nested_list_comprehension()
-    print("The result of a nested list comprehension" + str(a))
+
+
+    
 
     
