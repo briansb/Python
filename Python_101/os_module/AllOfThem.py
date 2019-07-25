@@ -15,6 +15,19 @@ print(os.getcwd())
 # make a directory
 os.mkdir("/home/user/TempDir")
 # make a path of directories
-path = "/home/user/Temp2Dir/Brian/Birmingham/Beth/Brooks"
+path = "/home/user/Temp2Dir/Brian"
 os.makedirs(path)
+
+#delete files and directories
+os.rmdir("/home/user/TempDir")
+os.rmdir("/home/user/Temp2Dir/Brian")
+os.rmdir("/home/user/Temp2Dir")
+
+f = open("test.txt", mode = "w")
+f.close()
+os.remove("test.txt")
+
+need os.rename, os.startfile
+
+
 
