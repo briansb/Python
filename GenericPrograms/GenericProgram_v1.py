@@ -1,6 +1,5 @@
-# import does a copy and paste of the source in "sys"
+# import does a copy and paste of the source in "os"
 import os
-
 # when an import file (calling_rates.py) is not in the Python system path or current working directory
 import sys
 sys.path.insert(0, '/home/bbirmingham/repos/orbitalivv/cygnus/sims/SIM_CYG_ENV')
@@ -39,15 +38,8 @@ def tuples_example():
     print(my_tuple[1:3])
 
 
-#----------------------------------------------
-#  Function calls 
-print("Nested List Comprehension:")
-nested_list_comprehension()
-
-print("Tuples:")
-tuples_example()
-
-
+#-----------------------------------------------------------------------
+#-----------------------------------------------------------------------
 
 # if run standalone, the system name is "__main__"
 #   and so the following statements will be run.
@@ -58,7 +50,6 @@ if __name__ == "__main__":
     # Calling a function, no return value
     arg1 = 43
     function1(43)
-
     # Calling a function, with return value
     # returns a value, so must set function equal to variable in main
     arg2 = "Test"
@@ -66,6 +57,12 @@ if __name__ == "__main__":
     print("Return from function2 with return value = " + var1)
     # can just put the function in a print statement
     print("Quicker way of getting function2 return value =  " + function2("shorter"))
+
+    print("\nNested List Comprehension:")
+    nested_list_comprehension()
+
+    print("\nTuples:")
+    tuples_example()
 
 
 
