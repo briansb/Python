@@ -30,8 +30,8 @@ f.close()
 os.rename("test.txt","test_one.txt")
 
 # replaces os.startfile on Linux
-opener ="open" if sys.platform == "darwin" else "xdg-open"
-subprocess.call(["xdg-open", "test_one.txt"])
+#opener ="open" if sys.platform == "darwin" else "xdg-open"
+#subprocess.call(["xdg-open", "test_one.txt"])
 
 # delete file
 os.remove("test_one.txt")
@@ -40,8 +40,8 @@ os.remove("test_one.txt")
 for root, dirs, files in os.walk("/home/user/Python/Python_101"):
     # all of the paths
     print(root)
-    for _dir in dirs:
-        # all of the directories in the loop iterator 'root'
-        print("\t" + _dir)
-        for _file in files:
-            print("\t\t" + _file)
+##    for _dir in dirs:
+##        # all of the directories in the loop iterator 'root'
+##        print("\t" + _dir)
+##        for _file in files:
+##            print("\t\t" + _file)

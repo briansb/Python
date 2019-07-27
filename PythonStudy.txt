@@ -87,3 +87,5 @@ https://github.com/mahmoud/awesome-python-applications
 https://realpython.com/async-io-python/
 
 https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/
+
+https://treyhunner.com/2015/11/counting-things-in-python/?__s=uh5m9yepezwkszp44x8o
