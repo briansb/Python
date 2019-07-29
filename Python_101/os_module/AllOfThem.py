@@ -40,8 +40,8 @@ os.remove("test_one.txt")
 for root, dirs, files in os.walk("/home/user/Python/Python_101"):
     # all of the paths
     print(root)
-##    for _dir in dirs:
-##        # all of the directories in the loop iterator 'root'
-##        print("\t" + _dir)
+    for _dir in dirs:
+        # all of the directories in the loop iterator 'root'
+        print("\t" + _dir)
 ##        for _file in files:
 ##            print("\t\t" + _file)
