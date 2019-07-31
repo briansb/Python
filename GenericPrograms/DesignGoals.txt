@@ -1,6 +1,0 @@
- The goal is to have every Python concept incorporated into one program...
-techniques, concepts, tricks, constructs, etc.
-
-However, may need several versions.
-
-But first, exhaust the material in the Reservoir folder
