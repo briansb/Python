@@ -1,13 +1,28 @@
 def tail(sequence, n):
 
-    lst = []
-    if n > len(sequence):
-        print("n is greater than the sequence length")
-        return lst
-    for x in range(len(sequence) - n, len(sequence)):
-        lst.append(sequence[x])
+# my solution
+##    lst = []
+##    if n > len(sequence):
+##        print("n is greater than the sequence length")
+##        return lst
+##    for x in range(len(sequence) - n, len(sequence)):
+##        lst.append(sequence[x])
 
-    return lst
+# his solution
+    if n <= 0:
+        return []
+    return list(sequence[-n:])
+
+### for large iterables
+##    items = []
+##    if n <= 0:
+##        return []
+##    for item in iterable:
+##        items = [*items[-(n-1):], item]
+##        # the asterisk unpacks the last (n-1) items into a new list,
+##        #    with current item at the end
+##    return items
+
 
 def function_name_two(x,y):
     pass
