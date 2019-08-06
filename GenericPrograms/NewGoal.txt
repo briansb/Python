@@ -1,3 +1,0 @@
-Have a collection of small programs (not snippets, but stand-alone programs)
-   that illustrate one limited concept, e.g., reading and writing with text files,
-	or constructing a class, or passing *args, etc.

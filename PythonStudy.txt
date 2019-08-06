@@ -92,3 +92,6 @@ https://treyhunner.com/2015/11/counting-things-in-python/?__s=uh5m9yepezwkszp44x
 
 https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
 
+https://nedbatchelder.com/blog/201908/why_your_mock_doesnt_work.html
+
+https://rushter.com/blog/python-memory-managment/
