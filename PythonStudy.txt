@@ -95,3 +95,5 @@ https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-
 https://nedbatchelder.com/blog/201908/why_your_mock_doesnt_work.html
 
 https://rushter.com/blog/python-memory-managment/
+
+https://www.pythonforthelab.com/blog/starting-and-synchronizing-threads/
