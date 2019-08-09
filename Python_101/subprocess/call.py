@@ -9,8 +9,9 @@ import subprocess
 ##    print("Failure")
 
 # with arguments
-code = subprocess.call(["gedit","test.txt"])
+args = ["ls"]
+code = subprocess.call("ls")
 if code == 0:
     print("Success")
 else:
-    print("Failure")
+    print(f"Failure with {code}")
