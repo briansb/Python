@@ -97,3 +97,7 @@ https://nedbatchelder.com/blog/201908/why_your_mock_doesnt_work.html
 https://rushter.com/blog/python-memory-managment/
 
 https://www.pythonforthelab.com/blog/starting-and-synchronizing-threads/
+
+https://realpython.com/inheritance-composition-python/#conclusion
+
+
