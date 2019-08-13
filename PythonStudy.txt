@@ -97,3 +97,15 @@ https://nedbatchelder.com/blog/201908/why_your_mock_doesnt_work.html
 https://rushter.com/blog/python-memory-managment/
 
 https://www.pythonforthelab.com/blog/starting-and-synchronizing-threads/
+
+https://nedbatchelder.com/text/names1.html
+
+https://pyvideo.org/pyohio-2011/pyohio-2011-names-objects-and-plummeting-from.html
+
+http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+
+http://radar.oreilly.com/2014/10/python-tuples-immutable-but-potentially-changing.html
+
+
+
+

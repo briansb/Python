@@ -1,10 +1,12 @@
+import os
+
 # open a file that is in the same folder as this script
 handle = open("test.txt")
 # close file
 handle.close()
 
-# open a file by specifying its path
-handle = open("/share/bbirmingham/Python/Examples/test.txt", "r")
+# open a file by specifying its full path, and read_only mode
+handle = open(os.getcwd() + "/test.txt", "r")
 handle.close()
 
 # open the file in read-only binary mode
@@ -19,8 +21,11 @@ data = handle.read()
 print(data)
 handle.close()
 
-# # reads one line
-# data = handle.readline()
+
+# reads one line
+handle = open("test.txt", "r")
+data = handle.readline()
+print(data)
 
 # # returns a list
 # data = handle.readlines()
