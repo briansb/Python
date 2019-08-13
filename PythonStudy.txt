@@ -98,6 +98,7 @@ https://rushter.com/blog/python-memory-managment/
 
 https://www.pythonforthelab.com/blog/starting-and-synchronizing-threads/
 
+<<<<<<< HEAD
 https://nedbatchelder.com/text/names1.html
 
 https://pyvideo.org/pyohio-2011/pyohio-2011-names-objects-and-plummeting-from.html
@@ -107,5 +108,8 @@ http://purplediane.github.io/python/2017/05/14/variables-and-references.html
 http://radar.oreilly.com/2014/10/python-tuples-immutable-but-potentially-changing.html
 
 
+=======
+https://realpython.com/inheritance-composition-python/#conclusion
+>>>>>>> 0778a09ccb5fcfc7a80ccec735042415afec8c8c
 
 
