@@ -1,0 +1,64 @@
+String formatters
+sammy_string = "Sammy loves {} {}, and has {} {}."                      #4 {} placeholders
+print(sammy_string.format("open-source", "software", 5, "balloons"))    #Pass 4 strings into method
+
+print("Sammy the {0} has a pet {1}!".format("shark", "pilot fish"))
+print("Sammy the {1} has a pet {0}!".format("shark", "pilot fish"))   # reversed order
+
+print("Sammy the {0} {1} a {pr}.".format("shark", "made", pr = "pull request"))
+
+print("Sammy ate {0:f} percent of a {1}!".format(75, "pizza"))
+
+nBalloons = 8
+print("Sammy has {} balloons today!".format(nBalloons))
+
+for i in range(3,13):
+    print("{:6d} {:6d} {:6d}".format(i, i*i, i*i*i))
+
+f-strings
+https://realpython.com/python-f-strings/
+https://docs.python.org/3/reference/lexical_analysis.html#formatted-string-literals
+Some examples of formatted string literals:
+
+>>> name = "Fred"
+>>> f"He said his name is {name!r}."
+"He said his name is 'Fred'."
+>>> f"He said his name is {repr(name)}."  # repr() is equivalent to !r
+"He said his name is 'Fred'."
+>>> width = 10
+>>> precision = 4
+>>> value = decimal.Decimal("12.34567")
+>>> f"result: {value:{width}.{precision}}"  # nested fields
+'result:      12.35'
+>>> today = datetime(year=2017, month=1, day=27)
+>>> f"{today:%B %d, %Y}"  # using date format specifier
+'January 27, 2017'
+>>> number = 1024
+>>> f"{number:#0x}"  # using integer format specifier
+'0x400'
+
+A consequence of sharing the same syntax as regular string literals is that characters in the replacement fields must not conflict with the quoting used in the outer formatted string literal:
+
+f"abc {a["x"]} def"    # error: outer string literal ended prematurely
+f"abc {a['x']} def"    # workaround: use different quoting
+
+Backslashes are not allowed in format expressions and will raise an error:
+
+f"newline: {ord('\n')}"  # raises SyntaxError
+
+To include a value in which a backslash escape is required, create a temporary variable.
+
+>>> newline = ord('\n')
+>>> f"newline: {newline}"
+'newline: 10'
+
+Formatted string literals cannot be used as docstrings, even if they do not include expressions.
+>>>
+
+>>> def foo():
+...     f"Not a docstring"
+...
+>>> foo.__doc__ is None
+True
+
+See also PEP 498 for the proposal that added formatted string literals, and str.format(), which uses a related format string mechanism.
