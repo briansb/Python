@@ -98,3 +98,7 @@
 	for line in handle :
 	    line = line.rstrip()
 	    print(line)
+
+14.  When having difficulty "seeing" modules,
+	import sys
+	sys.path.append('/path/to/problemchild')

@@ -110,4 +110,12 @@ https://realpython.com/inheritance-composition-python/
 
 https://realpython.com/python-print/
 
+https://pythonspeed.com/articles/custom-python-profiler/
+
+https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90
+
+https://seddonym.me/2019/08/03/ioc-techniques/
+
+https://docs.python-guide.org/dev/virtualenvs/
+
 
