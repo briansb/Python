@@ -13,15 +13,13 @@ class MyThread(Thread):
     
     def run(self):
         # override run method to have random sleep time
-        amount = random.randint(3, 15)
+        amount = random.randint(3, 6)
         # this simulates the thread doing work
         time.sleep(amount)
         print(f"{self.name} is running")
         
 def create_threads():
-    """
-    Create a group of threads
-    """
+    # start 5 threads
     for i in range(5):
         name = "Thread #%s" % (i+1)
         my_thread = MyThread(name)
@@ -29,6 +27,9 @@ def create_threads():
         #   then automatically calls run method...see above for override
         print(f"Started {name}")
         my_thread.start()
+        # kills the thread
+        # my_thread.join()
         
 if __name__ == "__main__":
     create_threads()
+    
