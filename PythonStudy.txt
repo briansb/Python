@@ -122,4 +122,6 @@ https://realpython.com/effective-python-environment/
 
 https://pythonspeed.com/articles/custom-python-profiler/
 
+https://dbader.org/products/managing-python-dependencies/?c=q  --  should buy this
+
 

@@ -20,6 +20,9 @@ def main():
 
     variable4 = []
 
+    numbers = [1, 3, 8, 5, 4, 10, 6]
+    odds = (n for n in numbers if n % 2 == 1)
+
     print(multimax(variable1))
 
     print(multimax(variable2))
@@ -27,6 +30,9 @@ def main():
     print(multimax(variable3))
 
     print(multimax(variable4))
+
+    print(multimax(odds))
+    
     
 
 if __name__ == '__main__':
