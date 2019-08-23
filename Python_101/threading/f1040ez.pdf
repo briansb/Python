@@ -38,14 +38,14 @@
 <link rel="shortcut icon" href="/themes/custom/pup_base/favicon.ico" type="image/vnd.microsoft.icon" />
 <link rel="alternate" hreflang="en" href="https://www.irs.gov/forms-pubs/about-form-1040-ez" />
 <link rel="revision" href="https://www.irs.gov/forms-pubs/about-form-1040-ez" />
-<script src="/pub/google_tag/google_tag.script.js?pux8y2"></script>
+<script src="/pub/google_tag/google_tag.script.js?pwd4pi"></script>
 <script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.no_3p=1;</script>
 
     <title>About Form 1040-EZ | Internal Revenue Service</title>
-    <link rel="stylesheet" media="all" href="/pub/css/css_M7jsUgyQXfwyNAJXH-bgsnBzLbZHP8wvporAt9MLrqg.css?pux8y2" />
-<link rel="stylesheet" media="all" href="/pub/css/css_Lu8_Y4xqA7-VPL1fo7drI8S9NzHQjQ4xGPzTh9IzPd4.css?pux8y2" />
-<link rel="stylesheet" media="screen" href="/pub/css/css_9chSiigdRyKM19xDLAt-K1Ee2TlWEu3tqfikYk_lfBE.css?pux8y2" />
-<link rel="stylesheet" media="print" href="/pub/css/css_QoLYOdNV7f_TehQftL2gdYm_Co3UV1T6msa-tZmUL_E.css?pux8y2" />
+    <link rel="stylesheet" media="all" href="/pub/css/css_M7jsUgyQXfwyNAJXH-bgsnBzLbZHP8wvporAt9MLrqg.css?pwd4pi" />
+<link rel="stylesheet" media="all" href="/pub/css/css_Lu8_Y4xqA7-VPL1fo7drI8S9NzHQjQ4xGPzTh9IzPd4.css?pwd4pi" />
+<link rel="stylesheet" media="screen" href="/pub/css/css_CZ92nQsAd-B5ldkmrbS1AQO0e0J-SF6PTVf06RC2Rfg.css?pwd4pi" />
+<link rel="stylesheet" media="print" href="/pub/css/css_QoLYOdNV7f_TehQftL2gdYm_Co3UV1T6msa-tZmUL_E.css?pwd4pi" />
 
     
 <!--[if lte IE 8]>
@@ -128,7 +128,7 @@
 
     
     
-            <label for="edit-field-pup-historical-1" class="control-label">Include Historical Content</label>
+            
     
     <div class="select-style select-wrapper"><select data-drupal-selector="edit-field-pup-historical-1" class="form-select form-control" id="edit-field-pup-historical-1" name="field_pup_historical_1"><option value="All">- Any -</option><option value="1" selected="selected">No</option></select></div>
 
@@ -149,7 +149,7 @@
 
     
     
-            <label for="edit-field-pup-historical" class="control-label">Include Historical Content</label>
+            
     
     <div class="select-style select-wrapper"><select data-drupal-selector="edit-field-pup-historical" class="form-select form-control" id="edit-field-pup-historical" name="field_pup_historical"><option value="All">- Any -</option><option value="1" selected="selected">No</option></select></div>
 
@@ -290,7 +290,7 @@ Search</button></div>
 
     
     
-            <label for="edit-field-pup-historical-1" class="control-label">Include Historical Content</label>
+            
     
     <div class="select-style select-wrapper"><select data-drupal-selector="edit-field-pup-historical-1" class="form-select form-control" id="edit-field-pup-historical-1" name="field_pup_historical_1"><option value="All">- Any -</option><option value="1" selected="selected">No</option></select></div>
 
@@ -311,7 +311,7 @@ Search</button></div>
 
     
     
-            <label for="edit-field-pup-historical" class="control-label">Include Historical Content</label>
+            
     
     <div class="select-style select-wrapper"><select data-drupal-selector="edit-field-pup-historical" class="form-select form-control" id="edit-field-pup-historical" name="field_pup_historical"><option value="All">- Any -</option><option value="1" selected="selected">No</option></select></div>
 
@@ -1326,7 +1326,7 @@ Search</button></div>
     <section class="container" role="tablist" aria-multiselectable="true">
                   <div class="row pup-footer-head">
             <div class="pup-footer-logo col-md-6">
-              <a href="/"><img class="pup-footer-logo-img" src="/themes/custom/pup_base/images/irs_horiz-01.svg"></a>
+              <a href="/"><img class="pup-footer-logo-img" src="/themes/custom/pup_base/images/irs_horiz-01.svg" alt="Home"></a>
             </div>
             <div class="col-md-6">
               <div class="pup-footer-social-media-links">
@@ -1557,7 +1557,7 @@ Search</button></div>
     <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/7548","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":-10},"es":{"id":"es","name":"Spanish","direction":"ltr","weight":-9},"zh-hans":{"id":"zh-hans","name":"Chinese, Simplified","direction":"ltr","weight":-8},"zh-hant":{"id":"zh-hant","name":"Chinese, Traditional","direction":"ltr","weight":-7},"ko":{"id":"ko","name":"Korean","direction":"ltr","weight":-6},"ru":{"id":"ru","name":"Russian","direction":"ltr","weight":-5},"vi":{"id":"vi","name":"Vietnamese","direction":"ltr","weight":-4},"ht":{"id":"ht","name":"Haitian Creole","direction":"ltr","weight":-3}}},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"ajaxTrustedUrl":{"\/site-index-search":true},"chosen":{"selector":"select:visible","minimum_single":20,"minimum_multiple":20,"minimum_width":200,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":true,"placeholder_text_multiple":"Choose some option","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"ajax":[],"user":{"uid":0,"permissionsHash":"039fb4a434ae1d29283c2e31079424b809e38ca1a3e491007bbcedeaf11a13d5"}}</script>
 <script src="/pub/js/js_8NOdCA8pCNRYZgBTuyniXst9j0Sl8ZjduZEscEqgSww.js"></script>
 <script src="https://static.addtoany.com/menu/page.js" async></script>
-<script src="/pub/js/js_sNJtx-RNPxtFBzRhW5USilVyeAlhYcRkuFKes4uc3jk.js"></script>
+<script src="/pub/js/js_JRjyBglcWD8wdPKkKdVjL_MvjdvpZBYSHhinbXILahA.js"></script>
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b67fc6a152","applicationID":"70700070","transactionName":"blMHY0AHDUcDUEZQWFcZJFRGDwxaTVBaVkRcWDpHQAM8RgddVlxFZkUAW1cFFw==","queueTime":0,"applicationTime":1112,"atts":"QhQEFQgdHkk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b67fc6a152","applicationID":"70700070","transactionName":"blMHY0AHDUcDUEZQWFcZJFRGDwxaTUNTXlJmVQRUWgM=","queueTime":0,"applicationTime":36,"atts":"QhQEFQgdHkk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
