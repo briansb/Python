@@ -27,10 +27,10 @@ handle = open("test.txt", "r")
 data = handle.readline()
 print(data)
 
-# # returns a list
-# data = handle.readlines()
-# print(data)
-# handle.close()
+# returns a list
+data = handle.readlines()
+print(data)
+handle.close()
 
 # # file modes
 ##r - Open text file for reading.  Will overwrite.  The stream is positioned at the beginning of the file.
@@ -41,17 +41,13 @@ print(data)
 ##a+ - Open for reading and writing.  Will append.  The file is created if it does not exist.  The stream is positioned at the end of the file.  Subsequent writes to the file will always end up at the then current end of file, irrespective of any intervening fseek(3) or similar.
 
 
-
-
-
 # add this preferred file handling method:
-
-# with open("text.txt") as file:
-#     # do some file processing
-#     # example
-#     for line in f:
-#         print(line, end="")
-# # at this point, file is closed.  No need for file.close()
+print("\n\nPreferred method of file handling")
+with open("test.txt") as file:
+    # do some file processing
+    for line in file:
+       print(line, end="")
+# at this point, file is closed.  No need for file.close()
 
 # more detailed:
 
