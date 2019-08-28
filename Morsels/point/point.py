@@ -13,6 +13,18 @@ class Point:
             return (self.x == other.x) & (self.y == other.y) & (self.z == other.z)
         return False
 
+    def __add__(self, other):
+        x = self.x + other.x
+        y = self.y + other.y
+        z = self.z + other.z
+        return Point(x,y,z)
+
+    def __sub__(self, other):
+        x = self.x - other.x
+        y = self.y - other.y
+        z = self.z - other.z
+        return Point(x,y,z)
+
 
 
 def main():
@@ -28,6 +40,12 @@ def main():
     y.y = 10
     print(y)
     print(x==y)
+
+    z = x + y
+    print(z)
+
+    u = x-y
+    print(u)
     
 if __name__ == '__main__':
     main()
