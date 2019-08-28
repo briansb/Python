@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-    <zAppointments reminder="15">
+<zAppointments reminder="15">
     <appointment>
         <begin>1181251680</begin>
         <uid>040000008200E000</uid>
