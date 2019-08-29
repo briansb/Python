@@ -3,6 +3,8 @@ class Point:
         self.x = x_coord
         self.y = y_coord
         self.z = z_coord
+        # or....
+        # self.x, self.y, self.z = x, y, z
 
     def __repr__(self):
         rstring = f"Point(x={self.x}, y={self.y}, z={self.z})"
@@ -11,12 +13,16 @@ class Point:
     def __eq__(self, other):
         if isinstance(other, Point):
             return (self.x == other.x) & (self.y == other.y) & (self.z == other.z)
+        # or
+        # return (self.x, self.y, self.z) == (other.x, other.y, other.z)
         return False
 
     def __add__(self, other):
         x = self.x + other.x
         y = self.y + other.y
         z = self.z + other.z
+        # or
+        # return Point(self.x+other.x, self.y+other.y, self.z+other.z)
         return Point(x,y,z)
 
     def __sub__(self, other):
