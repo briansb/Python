@@ -11,12 +11,18 @@ def getTitles(xml):
     titles = []
     for book in books:
         titleObj = book.getElementsByTagName("title")[0]
+        
         titles.append(titleObj)
-        
+
+    nodes = []
     for title in titles:
-        nodes = title.childNodes
-        
+        nodesObj = title.childNodes
+        nodes.append(nodesObj)
+        print(nodes)
+
+    print(len(nodes))
     for node in nodes:
+        print(node.data)
         if node.nodeType == node.TEXT_NODE:
             print(node.data)
 
