@@ -126,4 +126,6 @@ https://dbader.org/products/managing-python-dependencies/?c=q  --  should buy th
 
 https://www.youtube.com/watch?v=vD1KZgHCNCs&feature=youtu.be
 
+https://www.datacamp.com/community/tutorials/python-xml-elementtree
+
 
