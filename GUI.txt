@@ -1,0 +1,9 @@
+May want to use PyQt for graphical stuff:
+
+https://pypi.org/project/PyQt5/
+
+https://pythonspot.com/pyqt5/
+
+https://likegeeks.com/pyqt5-tutorial/
+
+https://riptutorial.com/pyqt5
