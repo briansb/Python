@@ -1,5 +1,3 @@
-https://realpython.com/pointers-in-python/
-
 https://www.youtube.com/watch?v=EnSu9hHGq5o&__s=uh5m9yepezwkszp44x8o
 Loop like a native:  while, for, iterators, generators
 
