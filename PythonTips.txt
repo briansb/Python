@@ -102,3 +102,7 @@
 14.  When having difficulty "seeing" modules,
 	import sys
 	sys.path.append('/path/to/problemchild')
+
+15.  To turn off pdb.set_trace()
+	(Pdb) pdb.set_trace = lambda: None  # This replaces the set_trace() function!
+	(Pdb) continue  # No more breaks!

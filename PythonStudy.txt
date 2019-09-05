@@ -126,4 +126,15 @@ https://www.youtube.com/watch?v=vD1KZgHCNCs&feature=youtu.be
 
 https://www.datacamp.com/community/tutorials/python-xml-elementtree
 
+https://bogotobogo.com/python/python_modules_idle.php
+
+https://medium.com/@stevenrouk/the-art-of-problem-solving-one-line-matrix-multiplication-list-comprehension-in-python-f65fbe01d1a9
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+https://ruslanspivak.com/lsbasi-part1/
+
+
+
+
 
