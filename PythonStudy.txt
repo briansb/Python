@@ -134,7 +134,6 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 https://ruslanspivak.com/lsbasi-part1/
 
+https://www.youtube.com/watch?v=AsafkCAJpJ0
 
-
-
-
+https://julien.danjou.info/dependencies-handling-in-python-automatic-update/
