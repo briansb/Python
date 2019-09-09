@@ -137,3 +137,5 @@ https://ruslanspivak.com/lsbasi-part1/
 https://www.youtube.com/watch?v=AsafkCAJpJ0
 
 https://julien.danjou.info/dependencies-handling-in-python-automatic-update/
+
+https://realpython.com/python-kwargs-and-args/
