@@ -143,3 +143,5 @@ https://realpython.com/python-kwargs-and-args/
 https://www.youtube.com/watch?v=jTYiNjvnHZY
 
 https://www.youtube.com/watch?v=bD05uGo_sVI
+
+https://realpython.com/learning-paths/perfect-your-python-development-setup/
