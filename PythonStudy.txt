@@ -142,3 +142,9 @@ https://www.youtube.com/watch?v=jTYiNjvnHZY
 https://www.youtube.com/watch?v=bD05uGo_sVI
 
 https://realpython.com/learning-paths/perfect-your-python-development-setup/
+
+https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/
+
+https://realpython.com/python-kwargs-and-args/
+
+https://realpython.com/python-vs-cpp/
