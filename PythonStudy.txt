@@ -1,5 +1,4 @@
-https://www.youtube.com/watch?v=u8g9scXeAcI&feature=youtu.be&t=16m4s&__s=uh5m9yepezwkszp44x8o
-Looping like a pro in Python
+https://realpython.com/primer-on-python-decorators/
 
 https://danielmiessler.com/study/vim/
 
@@ -50,8 +49,6 @@ https://realpython.com/tutorials/all/
 https://github.com/machinelearningmindset/TensorFlow-Course#why-use-tensorflow
 
 https://build-system.fman.io/pyqt5-tutorial
-
-https://realpython.com/primer-on-python-decorators/
 
 https://pbpython.com/monte-carlo.html
 
