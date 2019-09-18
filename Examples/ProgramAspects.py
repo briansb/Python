@@ -1,8 +1,12 @@
-# Object's class name
-# Function name
+# Exposing various aspects/properties/functionality of a program
 
+# Object's class name
 class MyClass: pass
+
+# Function name
 def myfunc(): pass
+
+# ----------
 
 obj = MyClass()
 print(obj.__class__.__name__)
