@@ -147,3 +147,13 @@ https://realpython.com/python-kwargs-and-args/
 https://realpython.com/python-vs-cpp/
 
 https://www.youtube.com/watch?v=V2PkkMS2Ack&t=210s
+
+https://realpython.com/convert-python-string-to-int/#converting-a-python-int-to-a-string
+
+https://realpython.com/pygame-a-primer/
+
+https://www.youtube.com/watch?v=o9pEzgHorH0&__s=uh5m9yepezwkszp44x8o
+
+https://www.youtube.com/watch?v=epKegvx_Jws&feature=youtu.be&__s=uh5m9yepezwkszp44x8o
+
+https://www.youtube.com/watch?v=HTLu2DFOdTg&__s=uh5m9yepezwkszp44x8o
