@@ -1,6 +1,7 @@
 #  https://www.machinelearningplus.com/python/parallel-processing-python/
-
+import time
 import multiprocessing as mp
+import numpy as np
 
 print(f"Number of processors: {mp.cpu_count()}")
 
@@ -13,13 +14,10 @@ print(f"Number of processors: {mp.cpu_count()}")
 #    Pool.map_async() and Pool.starmap_async()
 #    Pool.apply_async()
 
-import numpy as np
-from time import time
-
 # Problem - how many numbers are present, in a given range, in each row?
 # Prepare data - a 2D matrix (or list of lists)
-# change numberofrows to 200000
-numberofrows = 10
+# change number of rows to 200000
+numberofrows = 1000000
 
 # sets the random seed without impacting the global numpy state...whatever that means
 np.random.RandomState(100)
@@ -27,8 +25,24 @@ np.random.RandomState(100)
 arr = np.random.randint(0, 10, size=[numberofrows, 5])
 # converts the array into a list
 data = arr.tolist()
-print(data[:5])
+print(f"Data = {data[:5]}")
+print()
 
 
+print("Beginning slow solution")
+start = time.time()
 # Solution without parallelization
+def howmany_within_range(row, minimum, maximum):
+    """Returns how many numbers lie within `maximum` and `minimum` in a given `row`"""
+    count = 0
+    for n in row:
+        if minimum <= n <= maximum:
+            count = count + 1
+    return count
 
+results = []
+for row in data:
+    results.append(howmany_within_range(row, minimum=4, maximum=8))
+end = time.time()
+print(f"Solution = {results[:10]}")
+print(f"Elapsed time = {(end - start):.6f}")
