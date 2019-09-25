@@ -157,3 +157,5 @@ https://www.youtube.com/watch?v=o9pEzgHorH0&__s=uh5m9yepezwkszp44x8o
 https://www.youtube.com/watch?v=epKegvx_Jws&feature=youtu.be&__s=uh5m9yepezwkszp44x8o
 
 https://www.youtube.com/watch?v=HTLu2DFOdTg&__s=uh5m9yepezwkszp44x8o
+
+https://realpython.com/python-async-features/
