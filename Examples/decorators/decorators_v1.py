@@ -40,6 +40,8 @@ print()
 
 # will return third_child as address
 third = parent(3)
+# function called WITHOUT parentheses...sending address only
 print(third)
 # will execute third_child
+# function called WITH parentheses...function is to be executed
 print(third())
