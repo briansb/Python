@@ -169,3 +169,6 @@ https://www.youtube.com/watch?v=6kNzG0T44SI
 https://skerritt.blog/learn-functional-python-in-10-minutes/
 
 https://blog.soshace.com/en/python/python-range-explained-and-visualized/
+
+https://realpython.com/introduction-to-python-generators/
+
