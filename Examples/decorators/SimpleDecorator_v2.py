@@ -11,3 +11,7 @@ def greet(name):
     print(f"Hello {name}")
 
 greet("Bob")
+print(greet("Bob"))
+# print statement is printing None because decorator do_twice
+#    does not explicitly return a value
+#  see decorators.py
