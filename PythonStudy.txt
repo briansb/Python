@@ -159,3 +159,13 @@ https://www.youtube.com/watch?v=epKegvx_Jws&feature=youtu.be&__s=uh5m9yepezwkszp
 https://www.youtube.com/watch?v=HTLu2DFOdTg&__s=uh5m9yepezwkszp44x8o
 
 https://realpython.com/python-async-features/
+
+https://www.youtube.com/watch?v=fKl2JW_qrso
+
+https://towardsdatascience.com/speeding-up-python-code-fast-filtering-and-slow-loops-8e11a09a9c2f
+
+https://www.youtube.com/watch?v=6kNzG0T44SI
+
+https://skerritt.blog/learn-functional-python-in-10-minutes/
+
+https://blog.soshace.com/en/python/python-range-explained-and-visualized/
