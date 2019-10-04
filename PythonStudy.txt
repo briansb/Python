@@ -172,3 +172,8 @@ https://blog.soshace.com/en/python/python-range-explained-and-visualized/
 
 https://realpython.com/introduction-to-python-generators/
 
+https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/
+
+https://www.nacnez.com/gof-inspired-decorators.html
+
+
