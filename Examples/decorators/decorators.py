@@ -1,10 +1,13 @@
-def do_twice(func):
-    # added *args, **kwargs to allow any number of args...from 0 to n
-    def wrapper_do_twice(*args, **kwargs):
-        func(*args, **kwargs)
-        func(*args, **kwargs)
-        #  replace above with
-        #return func(*args, **kwargs)
-    return wrapper_do_twice
+import functools
+
+# boilerplate for decorators
+def decorator(func):
+    @functools.wraps(func)
+    def wrapper_decorator(*args, **kwargs):
+        # Do something before
+        value = func(*args, **kwargs)
+        # Do something after
+        return value
+    return wrapper_decorator
 
 
