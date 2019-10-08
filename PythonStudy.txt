@@ -181,3 +181,5 @@ https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-
 https://realpython.com/python-zip-function/
 
 https://realpython.com/prevent-python-sql-injection/
+
+https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/
