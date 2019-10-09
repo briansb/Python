@@ -178,8 +178,8 @@ https://www.nacnez.com/gof-inspired-decorators.html
 
 https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/?__s=uh5m9yepezwkszp44x8o
 
-https://realpython.com/python-zip-function/
-
 https://realpython.com/prevent-python-sql-injection/
 
 https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/
+
+https://realpython.com/python-zip-function/
