@@ -183,3 +183,9 @@ https://realpython.com/prevent-python-sql-injection/
 https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/
 
 https://realpython.com/python-zip-function/
+
+https://machinelearningmastery.com/what-is-bayesian-optimization/
+
+https://www.data-structures-in-practice.com/hash-tables/
+
+https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/
