@@ -189,3 +189,5 @@ https://machinelearningmastery.com/what-is-bayesian-optimization/
 https://www.data-structures-in-practice.com/hash-tables/
 
 https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carbonara/
+
+https://medium.com/@saurabhkukade_96600/meta-programming-in-python-7fb94c8c7152
