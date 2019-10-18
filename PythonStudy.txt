@@ -193,3 +193,9 @@ https://julien.danjou.info/guide-to-python-profiling-cprofile-concrete-case-carb
 https://medium.com/@saurabhkukade_96600/meta-programming-in-python-7fb94c8c7152
 
 https://realpython.com/what-is-pip/
+
+https://www.pythonforthelab.com/blog/complete-guide-to-imports-in-python-absolute-relative-and-more/
+
+https://skerritt.blog/divide-and-conquer-algorithms/
+
+https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html
