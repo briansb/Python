@@ -203,3 +203,5 @@ https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html
 https://www.dataquest.io/blog/python-if-else/
 
 https://www.youtube.com/watch?v=FfWpgLFMI7w
+
+https://realpython.com/python-pyqt-gui-calculator/
