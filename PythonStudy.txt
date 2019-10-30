@@ -205,3 +205,5 @@ https://www.dataquest.io/blog/python-if-else/
 https://www.youtube.com/watch?v=FfWpgLFMI7w
 
 https://realpython.com/python-pyqt-gui-calculator/
+
+https://www.pythonmorsels.com/topics/?__s=uh5m9yepezwkszp44x8o
