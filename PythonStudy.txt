@@ -207,3 +207,7 @@ https://www.youtube.com/watch?v=FfWpgLFMI7w
 https://realpython.com/python-pyqt-gui-calculator/
 
 https://www.pythonmorsels.com/topics/?__s=uh5m9yepezwkszp44x8o
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/?__s=uh5m9yepezwkszp44x8o
+
+https://treyhunner.com/2019/01/no-really-pathlib-is-great/?__s=uh5m9yepezwkszp44x8o
