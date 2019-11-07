@@ -211,3 +211,7 @@ https://www.pythonmorsels.com/topics/?__s=uh5m9yepezwkszp44x8o
 https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/?__s=uh5m9yepezwkszp44x8o
 
 https://treyhunner.com/2019/01/no-really-pathlib-is-great/?__s=uh5m9yepezwkszp44x8o
+
+https://www.youtube.com/watch?v=XGf2GcyHPhc
+
+https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
