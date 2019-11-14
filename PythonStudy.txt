@@ -219,3 +219,5 @@ https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc8849
 https://realpython.com/list-comprehension-python/
 
 https://www.youtube.com/watch?v=FfWpgLFMI7w
+
+https://medium.com/cantors-paradise/dijkstras-shortest-path-algorithm-in-python-d955744c7064
