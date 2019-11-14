@@ -215,3 +215,7 @@ https://treyhunner.com/2019/01/no-really-pathlib-is-great/?__s=uh5m9yepezwkszp44
 https://www.youtube.com/watch?v=XGf2GcyHPhc
 
 https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
+
+https://realpython.com/list-comprehension-python/
+
+https://www.youtube.com/watch?v=FfWpgLFMI7w
