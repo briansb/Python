@@ -221,3 +221,7 @@ https://realpython.com/list-comprehension-python/
 https://www.youtube.com/watch?v=FfWpgLFMI7w
 
 https://medium.com/cantors-paradise/dijkstras-shortest-path-algorithm-in-python-d955744c7064
+
+https://nedbatchelder.com/text/names1.html?__s=uh5m9yepezwkszp44x8o
+
+https://docs.kde.org/trunk5/en/applications/fundamentals/kbd.html
