@@ -206,9 +206,6 @@ https://www.youtube.com/watch?v=FfWpgLFMI7w
 
 https://realpython.com/python-pyqt-gui-calculator/
 
-
-
-
 https://www.pythonmorsels.com/topics/?__s=uh5m9yepezwkszp44x8o
 
 https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/?__s=uh5m9yepezwkszp44x8o
@@ -228,3 +225,9 @@ https://medium.com/cantors-paradise/dijkstras-shortest-path-algorithm-in-python-
 https://nedbatchelder.com/text/names1.html?__s=uh5m9yepezwkszp44x8o
 
 https://docs.kde.org/trunk5/en/applications/fundamentals/kbd.html
+
+https://www.dataquest.io/blog/python-list-tutorial/
+
+https://www.fullstackpython.com/blog/python-basic-data-types-booleans.html
+
+
