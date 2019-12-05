@@ -231,3 +231,7 @@ https://www.dataquest.io/blog/python-list-tutorial/
 https://www.fullstackpython.com/blog/python-basic-data-types-booleans.html
 
 https://realpython.com/python-descriptors/
+
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Getting-Started-with-Python-in-Visual-Studio-Code
+
+https://www.youtube.com/watch?v=mE0oR9NQefw
