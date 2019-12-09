@@ -1,3 +1,15 @@
+In this order:
+https://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/
+https://treyhunner.com/lazy-looping/resources.html?__s=uh5m9yepezwkszp44x8o
+https://pycon2019.trey.io/?__s=uh5m9yepezwkszp44x8o
+
+
+
+
+
+
+
+
 https://realpython.com/primer-on-python-decorators/
 
 https://danielmiessler.com/study/vim/
