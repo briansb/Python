@@ -250,3 +250,8 @@ https://www.youtube.com/watch?v=mE0oR9NQefw
 
 https://www.youtube.com/watch?v=OSGv2VnC0go
 
+https://blog.pepy.tech/python/patterns/2019/12/21/dependency-injection-with-pinject.html
+
+https://realpython.com/python-timer/
+
+
