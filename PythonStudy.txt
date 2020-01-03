@@ -254,4 +254,4 @@ https://blog.pepy.tech/python/patterns/2019/12/21/dependency-injection-with-pinj
 
 https://realpython.com/python-timer/
 
-
+https://martinheinz.dev/blog/13
