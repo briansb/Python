@@ -253,3 +253,6 @@ https://blog.pepy.tech/python/patterns/2019/12/21/dependency-injection-with-pinj
 https://realpython.com/python-timer/
 
 https://martinheinz.dev/blog/13
+
+https://www.marsja.se/how-to-read-a-file-in-python-write-to-and-append-to-a-file/
+
