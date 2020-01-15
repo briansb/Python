@@ -257,3 +257,4 @@ https://martinheinz.dev/blog/13
 
 https://www.marsja.se/how-to-read-a-file-in-python-write-to-and-append-to-a-file/
 
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
