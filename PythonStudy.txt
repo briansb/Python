@@ -3,6 +3,10 @@ https://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/
 https://treyhunner.com/lazy-looping/resources.html?__s=uh5m9yepezwkszp44x8o
 https://pycon2019.trey.io/?__s=uh5m9yepezwkszp44x8o
 
+https://martinheinz.dev/blog/14
+
+https://arpitbhayani.me/blogs/super-long-integers
+
 https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5
 
 https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d
@@ -258,3 +262,7 @@ https://martinheinz.dev/blog/13
 https://www.marsja.se/how-to-read-a-file-in-python-write-to-and-append-to-a-file/
 
 https://treyhunner.com/2020/01/passing-functions-as-arguments/
+
+https://www.pluralsight.com/tech-blog/managing-python-environments/
+
+
