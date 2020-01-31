@@ -97,8 +97,6 @@ https://blog.vomkonstant.in/2019/01/21/pythons-most-underrated-game-engine-for-b
 
 https://www.toptal.com/opencv/python-image-processing-in-computational-photography
 
-https://github.com/mahmoud/awesome-python-applications
-
 https://realpython.com/async-io-python/
 
 https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/
