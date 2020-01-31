@@ -7,6 +7,8 @@ https://martinheinz.dev/blog/14
 
 https://arpitbhayani.me/blogs/super-long-integers
 
+https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/
+
 https://pbpython.com/effective-matplotlib.html
 
 https://realpython.com/python-gui-tkinter/
