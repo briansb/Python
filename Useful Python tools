@@ -1,0 +1,9 @@
+Investigate these tools:
+
+1.  ast.literal_eval()
+
+2.  functools.lru_cache()
+
+3.  pdb.pm()
+
+4.  reprlib.recursive_repr()
