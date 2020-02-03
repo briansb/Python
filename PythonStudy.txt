@@ -31,6 +31,8 @@ https://treyhunner.com/2016/12/python-iterator-protocol-how-for-loops-work/?__s=
 
 https://ryanstutorials.net/bash-scripting-tutorial/
 
+https://realpython.com/python-is-identity-vs-equality/
+
 https://realpython.com/lessons/what-version-control-system-vcs/
 Good tutorial on Git
 
