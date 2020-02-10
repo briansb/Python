@@ -1,0 +1,5 @@
+1.  Continue Examples -- example programs using 
+       Python features
+
+2.  FileDiff project...see Cygnus projects
+       started in DirectoryDelta folder 
