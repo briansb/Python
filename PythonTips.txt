@@ -106,3 +106,15 @@
 15.  To turn off pdb.set_trace()
 	(Pdb) pdb.set_trace = lambda: None  # This replaces the set_trace() function!
 	(Pdb) continue  # No more breaks!
+
+16. The three pointers I have at this time are:
+    1.  Keep an eye out for errors that are thrown as you are running your code as you develop it. 
+	These may be great places to put in a try / except block.
+    2.  Keep the number of lines between the try and except lines as small as possible. 
+	You want it to be as clear as possible to see what threw the error and why.
+    3.  When you are adding an if statement, take a moment to consider if you could write the code 
+	in a way that will smoothly execute for the most common situation and throw a specific error if it need some adjusting.
+
+
+
+
