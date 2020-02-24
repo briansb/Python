@@ -283,4 +283,6 @@ https://realpython.com/python-formatted-output/
 
 https://arpitbhayani.me/blogs/function-overloading
 
+https://realpython.com/null-in-python/
 
+https://realpython.com/python-formatted-output/
