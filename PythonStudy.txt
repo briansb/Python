@@ -1,3 +1,5 @@
+Master plan:   https://realpython.com/learning-paths/
+
 In this order:
 https://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/
 https://treyhunner.com/lazy-looping/resources.html?__s=uh5m9yepezwkszp44x8o
