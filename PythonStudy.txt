@@ -11,6 +11,8 @@ https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/
 
 https://martinheinz.dev/blog/14
 
+https://martinheinz.dev/blog/17
+
 https://arpitbhayani.me/blogs/super-long-integers
 
 https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/
@@ -288,3 +290,9 @@ https://arpitbhayani.me/blogs/function-overloading
 https://realpython.com/null-in-python/
 
 https://realpython.com/python-formatted-output/
+
+https://ruslanspivak.com/eofnotchar/
+
+https://blog.yossarian.net/2020/03/02/Totally-ordered-enums-in-python-with-ordered_enum
+
+https://towardsdatascience.com/15-things-you-should-know-about-dictionaries-in-python-44c55e75405c
