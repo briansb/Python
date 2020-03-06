@@ -1,3 +1,5 @@
+import sys
+
 def function_name(*args):
     pass
 #     do stuff
@@ -9,13 +11,21 @@ def function_name_two(x,y):
     return x+y
 
 def main():
+
+    print(f"Number of arguments: {len(sys.argv)} arguments.")
+    print(f"Argument List: {str(sys.argv)}")
+ 
     variable1 = "something"
     variable2 = 5
 
-    print(function_name(variable1))
+    print(f"{function_name(variable1)}")
 
     variable3 = function_name_two(3,4)
     print(variable3)
 
 if __name__ == '__main__':
     main()
+
+
+
+
