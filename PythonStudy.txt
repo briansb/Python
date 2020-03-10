@@ -296,3 +296,5 @@ https://ruslanspivak.com/eofnotchar/
 https://blog.yossarian.net/2020/03/02/Totally-ordered-enums-in-python-with-ordered_enum
 
 https://towardsdatascience.com/15-things-you-should-know-about-dictionaries-in-python-44c55e75405c
+
+https://realpython.com/defining-your-own-python-function/
