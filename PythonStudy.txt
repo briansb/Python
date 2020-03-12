@@ -298,3 +298,5 @@ https://blog.yossarian.net/2020/03/02/Totally-ordered-enums-in-python-with-order
 https://towardsdatascience.com/15-things-you-should-know-about-dictionaries-in-python-44c55e75405c
 
 https://realpython.com/defining-your-own-python-function/
+
+https://www.blog.pythonlibrary.org/2020/03/10/python-101-learning-about-lists/
