@@ -300,3 +300,5 @@ https://towardsdatascience.com/15-things-you-should-know-about-dictionaries-in-p
 https://realpython.com/defining-your-own-python-function/
 
 https://www.blog.pythonlibrary.org/2020/03/10/python-101-learning-about-lists/
+
+https://realpython.com/python-defaultdict/
