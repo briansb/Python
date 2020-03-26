@@ -304,3 +304,9 @@ https://www.blog.pythonlibrary.org/2020/03/10/python-101-learning-about-lists/
 https://realpython.com/python-defaultdict/\
 
 https://jessewarden.com/2020/03/write-unbreakable-python.html
+
+https://realpython.com/python-scope-legb-rule/
+
+https://realpython.com/python-scope-legb-rule/
+
+
