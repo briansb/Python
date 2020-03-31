@@ -309,4 +309,6 @@ https://realpython.com/python-scope-legb-rule/
 
 https://realpython.com/python-scope-legb-rule/
 
+https://realpython.com/simpy-simulating-with-python/
 
+https://realpython.com/python-math-module/
