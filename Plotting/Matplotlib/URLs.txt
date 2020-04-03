@@ -1,0 +1,4 @@
+https://matplotlib.org/3.2.1/users/event_handling.html
+https://stackoverflow.com/questions/28001655/draggable-line-with-draggable-points
+https://github.com/yuma-m/matplotlib-draggable-plot/blob/master/draggable_plot.py
+https://matplotlib.org/3.2.1/gallery/event_handling/poly_editor.html?highlight=polygon%20editor
