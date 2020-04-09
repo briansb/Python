@@ -316,3 +316,13 @@ https://realpython.com/python-math-module/
 https://realpython.com/linked-lists-python/
 
 https://realpython.com/any-python/
+
+https://www.cloudcity.io/blog/2019/02/27/things-i-wish-they-told-me-about-multiprocessing-in-python/
+
+https://stackoverflow.com/questions/60983836/complete-set-of-punctuation-marks-for-python-not-just-ascii
+
+https://lwn.net/SubscriberLink/816415/74bda9c0f1d7e55b/
+
+https://realpython.com/linked-lists-python/
+
+
