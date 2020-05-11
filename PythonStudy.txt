@@ -325,4 +325,5 @@ https://lwn.net/SubscriberLink/816415/74bda9c0f1d7e55b/
 
 https://realpython.com/linked-lists-python/
 
+https://realpython.com/learning-paths/python-concurrency-parallel-programming/
 
